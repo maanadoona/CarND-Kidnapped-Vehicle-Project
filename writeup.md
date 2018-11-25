@@ -3,7 +3,7 @@
 This project is for implementing particle filter to help localization of the vehicle.
 
 [image1]: ./data/flowchart.png
-[image2]: ./data/success.gif
+[image2]: ./data/success.png
 
 
 ## MyWork
